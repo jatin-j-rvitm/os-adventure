@@ -76,7 +76,7 @@ npm run dev
 
 
 ---
-
+## Team/Collaborators
 | Name | USN |
 |-----|------|
 | Jatin Chandra J    | 1RF24IS043      |
