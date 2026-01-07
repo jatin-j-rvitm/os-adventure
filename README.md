@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Simply visit the [Lovable Project](https://funos-lab.lovable.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -71,3 +71,12 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+---
+
+| Name | USN |
+|-----|------|
+| Jatin Chandra J    | 1RF24IS043      |
+| Jai Swaroop  | 1RF24IS057     |
+| Jagan Sai K    | 1RF24IS041     |
+| Aditya S | 1RF24IS009 |
