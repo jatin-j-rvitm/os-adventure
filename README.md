@@ -1,39 +1,77 @@
-# Welcome to your Lovable project
+# 🎮 FunOS Lab – Gamified OS Learning
 
-## Project info
+## 📌 Project Overview
 
-**URL**: https://funos-lab.lovable.app/)
+**FunOS Lab** is a gamified web application designed to help students learn **Operating System concepts** through **interactive simulations and quizzes** instead of traditional theory-heavy methods.
 
-## How can I edit this code?
+🔗 **Live URL:** https://funos-lab.lovable.app/
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🚀 Features (MVP)
 
-Simply visit the [Lovable Project](https://funos-lab.lovable.app/) and start prompting.
+- 🎯 **Gamified Learning Experience**
+  - Learn by interacting, not memorizing
+  - Visual explanations and step-by-step flow
 
-Changes made via Lovable will be committed automatically to this repo.
+- ⏱️ **FCFS CPU Scheduling Simulator**
+  - Input process arrival & burst times
+  - Visual Gantt chart
+  - Clear execution order and waiting time calculation
 
-**Use your preferred IDE**
+- 🧠 **First Fit Memory Allocation Simulator**
+  - Define memory blocks and processes
+  - Visual allocation behavior
+  - Shows fragmentation clearly
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 📝 **Quiz Module**
+  - MCQs on FCFS and First Fit
+  - Instant feedback and scoring
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Tech Stack
+
+This project is built using:
+
+- Vite  
+- TypeScript  
+- React  
+- Tailwind CSS  
+- shadcn/ui  
+
+---
+
+## ✏️ How to Edit This Project
+
+### Option 1: Use Lovable (Recommended)
+
+1. Open the project in Lovable  
+2. Start prompting and modifying features  
+3. All changes are automatically committed  
+
+🔗 https://funos-lab.lovable.app/
+
+---
+
+### Option 2: Run Locally (IDE)
+
+**Requirements:** Node.js & npm  
+Install using nvm: https://github.com/nvm-sh/nvm
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Go to project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
+
 ```
 
 **Edit a file directly in GitHub**
